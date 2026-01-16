@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node
+node_modules/
+build/
+
+# Redis
+dump.rdb
+
+# IDE
+.vscode/
+.idea/
